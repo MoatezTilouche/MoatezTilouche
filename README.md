@@ -49,8 +49,8 @@
       <br>TensorFlow
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="65" height="65" />
-      <br>PyTorch
+      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="65" height="65" />
+      <br>Angular
     </td>
   </tr>
   <tr>
@@ -59,8 +59,8 @@
       <br>OpenCV
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65" height="65" />
-      <br>Scikit-learn
+      <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="65" height="65" />
+      <br>NestJS
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="65" height="65" />
@@ -75,11 +75,12 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="65" height="65" />
-      <br>Tailwind
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="65" height="65" />
+      <br>Spring Boot
     </td>
   </tr>
 </table>
+
 
 ## 📊 GitHub Stats
 <div align="center">
