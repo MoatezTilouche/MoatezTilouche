@@ -1,6 +1,6 @@
 <div align="center">👨‍💻 Hello World, I'm Moatez! 👋</div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C9DF7&center=true&vCenter=true&random=false&width=500&lines=AI+Enthusiast;Machine+Learning+Engineer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C9DF7&center=true&vCenter=true&random=false&width=500&lines=FulL+Stack+Developer;Mobile+Developer;Problem+Solver;Continuous+Learner;Devops+Enthausiast" alt="Typing SVG" />
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/moatez-tilouch-a58a96284/" target="_blank">
